@@ -1,3 +1,6 @@
 This is the file b that is commite dto repository
 
 File B is modified via eclipse
+
+
+File b has been modified in GitHub
